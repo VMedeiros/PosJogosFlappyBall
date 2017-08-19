@@ -1,2 +1,2 @@
 # PosJogosFlappyBall
-Flappy Ball Example
+Simple game-based application Flappy Bird
